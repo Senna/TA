@@ -102,7 +102,7 @@ return {
 			[19] = "tlldt",
 			[20] = "tlldtns",
 			[21] = "tllllt",
-			[22] = "tllupgweb",
+			[22] = "tlllft",
 			[23] = "tlltorp",
 			[24] = "tlllmt1",
 			[25] = "tlllmtns",
